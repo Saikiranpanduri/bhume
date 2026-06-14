@@ -1,4 +1,4 @@
-# bhume
+# CHAT TRANSCRIPTS
 
 # BHUME Boundary Correction Project
 ## Implementation Report & Technical Documentation
